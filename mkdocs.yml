@@ -39,10 +39,11 @@ nav:
     - Basic Installation: deployment/installation_basic.md
     - Object Detection: deployment/Object_detection.md
     - Data Collection: deployment/Data_collection.md
+    - Pose Tracking Data Logs: deployment/Pose_Tracking_Data_Logs.md
     - 3D Reconstruction: deployment/3D_reconstruction.md
   - Gazebo:
     - World Creation: Gazebo/World_creation.md
-    - Object  Ιnsertion: Gazebo/Object_insertion.md
+    - Object  Insertion: Gazebo/Object_insertion.md
    
   - UGV with 6 Dof Robotic Arm:
     - Arm Control: UGV_with_robotic_arm/control_arm.md
