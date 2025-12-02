@@ -1,4 +1,4 @@
-## Basic Installation
+# Basic Installation
 
 ### Step 1
 <p style="text-align: justify;">
