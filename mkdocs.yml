@@ -16,9 +16,9 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: grey
-  logo: assets/Icon-Textailes-Colour-RGB-Ver.png
-  favicon: assets/Icon-Textailes-Colour-RGB-Ver.png
+    primary:  teal
+  logo: assets/zeusbot_5.png
+  favicon: assets/zeusbot_5.png
 
 
 # Extra
@@ -35,6 +35,7 @@ extra_javascript:
 
 # Page
 nav:
+  - General Information: info/gen_info.md
   - Deployment: 
     - Basic Installation: deployment/installation_basic.md
     - Object Detection: deployment/Object_detection.md
@@ -48,3 +49,6 @@ nav:
   - UGV with 6 Dof Robotic Arm:
     - Arm Control: UGV_with_robotic_arm/control_arm.md
     - UGV Control: UGV_with_robotic_arm/control_ugv.md
+
+  - Real robot:
+    - UR5e Control: UR5e/control_RDTE.md
